@@ -1,0 +1,6 @@
+env.py
+workspace.code-workspace
+__pycache__/
+.vscode
+.vscode/settings.json
+venv/
